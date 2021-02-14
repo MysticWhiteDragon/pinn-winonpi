@@ -1,0 +1,15 @@
+{
+    "name":	   "Windows10",
+    "description": "Windows 10 for ARM (Pi4)",
+    "release_date": "2020-10-15",
+    "supported_models": [
+        "Pi 4"
+    ],
+    "version": "1.8.4",
+    "kernel": "5.4",
+    "supports_backup": true,
+    "url": "https://www.worproject.ml//",
+    "group": "General",
+    "username": "pi",
+    "password": "raspberry"
+}

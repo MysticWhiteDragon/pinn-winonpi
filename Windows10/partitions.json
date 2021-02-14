@@ -1,0 +1,12 @@
+{
+    "partitions": [
+        {
+            "filesystem_type": "FAT",
+            "label": "WINBOOT",
+            "mkfs_options": "-F 32",
+            "partition_size_nominal": 253,
+            "uncompressed_tarball_size": 13,
+            "want_maximised": false
+        }
+    ]
+}
